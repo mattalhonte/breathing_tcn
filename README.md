@@ -11,6 +11,8 @@ To use the Data Prep notebook, go to the envs folder and create its environment 
 
 To use the TCN notebooks, go to the envs folder and create its environment with this command: conda env create -f tf_environment.yml
 
+Project assumes you have the Breathing data downloaded into the `data/raw` folder and unzipped.
+https://www.kaggle.com/vbookshelf/respiratory-sound-database
 
 
 Project Organization
